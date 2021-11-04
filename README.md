@@ -4,13 +4,14 @@
 Novemeber 4th, 2021
 
 ### Project Title
-Github Docs Review Udacity
+Github Docs Review Udacity - Data Science with Python Nanodegree
 
-### Description
+### Descriptions
 An overview of Github command line calls. 
 
 ### Files used
-Many will update
+Many will update, 
+Updating these files
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
